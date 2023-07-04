@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/yandex-homework-performance/static/css/main.31c0efe9.css",
+    "main.js": "/yandex-homework-performance/static/js/main.9b8ae146.js",
+    "static/media/bg@2x.png": "/yandex-homework-performance/static/media/bg@2x.b23d48f2e17f0ebd4d42.png",
+    "static/media/lato.woff2": "/yandex-homework-performance/static/media/lato.be36596da218e1eec01c.woff2",
+    "static/media/icon_sun.svg": "/yandex-homework-performance/static/media/icon_sun.4cc3e966fdf03fcc2fe4.svg",
+    "static/media/arrow-down.svg": "/yandex-homework-performance/static/media/arrow-down.60fc682f8c0f5090796f.svg",
+    "static/media/icon_sun_2.svg": "/yandex-homework-performance/static/media/icon_sun_2.5dfee338cdd081d52122.svg",
+    "static/media/cloud-drizzle.svg": "/yandex-homework-performance/static/media/cloud-drizzle.42b0eb622364cf87d607.svg",
+    "static/media/icon_temperature.svg": "/yandex-homework-performance/static/media/icon_temperature.7dfddd93951249d35902.svg",
+    "static/media/icon_temperature_2.svg": "/yandex-homework-performance/static/media/icon_temperature_2.09fa125b3586a342f8db.svg",
+    "static/media/icon_list_m@1x.svg": "/yandex-homework-performance/static/media/icon_list_m@1x.93983e09c410833de99e.svg",
+    "static/media/logo.svg": "/yandex-homework-performance/static/media/logo.fbf3825fdaeb5d79fbbe.svg",
+    "static/media/icon_scheduled.svg": "/yandex-homework-performance/static/media/icon_scheduled.7da758857d472bd9356f.svg",
+    "index.html": "/yandex-homework-performance/index.html",
+    "main.31c0efe9.css.map": "/yandex-homework-performance/static/css/main.31c0efe9.css.map",
+    "main.9b8ae146.js.map": "/yandex-homework-performance/static/js/main.9b8ae146.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31c0efe9.css",
+    "static/js/main.9b8ae146.js"
+  ]
+}
